@@ -1,0 +1,25 @@
+{
+  "name": "web3week",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apaselina/yandexProject.git"
+  },
+  "author": "Apollinariia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apaselina/yandexProject/issues"
+  },
+  "homepage": "https://github.com/apaselina/yandexProject#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
